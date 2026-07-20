@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm Vinay Chaudhari
+# Hi 👋 I'm Vinay Chaudhari
 
-### QA Automation Engineer | Java | Selenium | TestNG | REST Assured
+### QA Automation Engineer
+
+**Java • Selenium • TestNG • REST Assured • SQL**
 
 Building reliable automation frameworks and continuously improving software quality.
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=QA+Automation+Engineer;Java+%7C+Selenium+%7C+TestNG;REST+API+Automation;Learning+CI%2FCD+%26+Automation+Framework+Design" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=QA+Automation+Engineer;UI+Automation+%7C+API+Testing;Java+%7C+Selenium+%7C+TestNG;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,173 +16,86 @@ Building reliable automation frameworks and continuously improving software qual
 
 ## 👨‍💻 About Me
 
-```java
-public class Vinay {
-
-    String role = "QA Automation Engineer";
-
-    String location = "India";
-
-    String[] expertise = {
-        "UI Automation",
-        "API Testing",
-        "Manual Testing",
-        "Automation Framework Design"
-    };
-
-    String currentFocus =
-        "Building scalable Selenium frameworks.";
-
-}
-```
+- 💼 Aspiring **QA Automation Engineer**
+- 🌱 Currently learning **Selenium, TestNG, REST Assured, and GitHub Actions**
+- 🎯 Focused on building **industry-standard automation frameworks**
+- 📚 Exploring **Java, SQL, CI/CD, and software quality engineering**
+- 🚀 Goal: Contribute to high-quality software through automation
 
 ---
 
 ## 🛠 Tech Stack
 
-<table>
-<tr>
-<td><b>Language</b></td>
-<td>Java • SQL</td>
-</tr>
+### Languages
+- Java
+- SQL
 
-<tr>
-<td><b>Automation</b></td>
-<td>Selenium WebDriver • TestNG</td>
-</tr>
+### Testing
+- Selenium WebDriver
+- TestNG
+- REST Assured
+- Postman
+- Manual Testing
 
-<tr>
-<td><b>API</b></td>
-<td>REST Assured • Postman</td>
-</tr>
-
-<tr>
-<td><b>Build Tool</b></td>
-<td>Maven</td>
-</tr>
-
-<tr>
-<td><b>Version Control</b></td>
-<td>Git • GitHub</td>
-</tr>
-
-<tr>
-<td><b>CI/CD</b></td>
-<td>GitHub Actions</td>
-</tr>
-
-<tr>
-<td><b>IDE</b></td>
-<td>IntelliJ IDEA • VS Code</td>
-</tr>
-
-</table>
+### Tools
+- Maven
+- Git
+- GitHub
+- IntelliJ IDEA
+- VS Code
 
 ---
 
 ## 🚀 Featured Projects
 
-| Repository | Description |
-|------------|-------------|
-| 🚀 Enterprise Selenium Framework | Java + Selenium + TestNG + Maven |
-| 🧪 REST Assured Framework | API Automation using REST Assured |
-| 🐞 Manual Testing Portfolio | Test Cases, RTM, Bug Reports |
-| 💾 SQL for Testers | SQL Practice & Interview Questions |
-| ☕ Java Practice | Core Java & OOP Concepts |
+| Repository | Description | Status |
+|------------|-------------|--------|
+| Enterprise-Selenium-Framework | Scalable Selenium automation framework | 🚧 In Progress |
+| Manual-Testing-Portfolio | Test plans, test cases, RTM, bug reports | 🚧 In Progress |
+| OrangeHRM-Automation | End-to-end UI automation project | 🚧 In Progress |
+| REST-Assured-Framework | API automation using REST Assured | 🚧 In Progress |
 
----
-
-## 📂 Framework Architecture
-
-```
-Tests
-   │
-   ▼
-Page Objects
-   │
-   ▼
-Utilities
-   │
-   ▼
-Driver Factory
-   │
-   ▼
-Configuration
-   │
-   ▼
-Extent Reports
-```
-
----
-
-## 📚 Current Learning
-
-```text
-✅ Core Java
-
-✅ SQL
-
-✅ Git & GitHub
-
-✅ Manual Testing
-
-🔄 Selenium WebDriver
-
-🔄 TestNG
-
-🔄 REST Assured
-
-🔄 GitHub Actions
-
-⏳ Jenkins
-
-⏳ Docker
-```
+> As I complete each project, I'll replace the **In Progress** status with links, screenshots, and documentation.
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VinaySD&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinaySD&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
-
----
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=VinaySD&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🎯 Engineering Philosophy
+## 📚 Current Learning
 
-- Write clean, maintainable code.
-- Build reusable automation frameworks.
-- Automate repetitive tasks.
-- Keep documentation simple and useful.
-- Never stop learning.
+- ✅ Core Java
+- ✅ SQL
+- ✅ Git & GitHub
+- 🔄 Selenium WebDriver
+- 🔄 TestNG
+- 🔄 REST Assured
+- ⏳ GitHub Actions
+- ⏳ Docker
 
 ---
 
 ## 📫 Connect
 
-- 💼 LinkedIn → YOUR_LINKEDIN
-- 📧 Email → YOUR_EMAIL
-- 🌐 Portfolio → Coming Soon
+- 💼 LinkedIn: *(Add your LinkedIn profile)*
+- 📧 Email: *(Add your email)*
 
 ---
 
 <div align="center">
 
-### Build • Test • Automate • Improve
+### **Build • Test • Automate • Improve**
 
-⭐ Thanks for visiting my GitHub profile!
+*"Quality is built into software, not inspected afterward."*
 
 </div>
