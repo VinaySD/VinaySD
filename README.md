@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Vinay Chaudhari
 
-### QA Automation Engineer
+### Aspiring QA Automation Engineer
 
 **Java • Selenium • TestNG • REST Assured • SQL**
 
