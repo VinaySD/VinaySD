@@ -4,7 +4,9 @@
 
 ### QA Automation Engineer
 
-**Building reliable automation frameworks and continuously improving software quality.**
+**Java • Selenium • TestNG • REST Assured • SQL**
+
+Building reliable automation frameworks and continuously improving software quality.
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=QA+Automation+Engineer;Java+%7C+Selenium+%7C+TestNG;REST+API+Automation;Always+Learning+New+Technologies" />
@@ -14,17 +16,21 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Final Year Computer Engineering Student
+I'm a Computer Engineering student passionate about **Software Testing** and **QA Automation**.
+
+Currently, I'm building real-world automation projects while learning modern testing tools and best practices.
+
+- 🎓 Computer Engineering Student
 - 💼 Aspiring QA Automation Engineer
-- 🌱 Currently learning Selenium, TestNG, REST Assured & GitHub Actions
-- 🧪 Interested in UI Automation, API Testing and Automation Framework Design
-- 🎯 Goal: Build scalable automation frameworks and deliver high-quality software
+- 🌱 Learning Selenium, TestNG, REST Assured & CI/CD
+- 🚀 Interested in UI Automation, API Testing & Framework Design
+- 🎯 Goal: Build scalable automation frameworks and deliver reliable software
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### 💻 Languages
 
@@ -32,7 +38,7 @@
 <img src="https://skillicons.dev/icons?i=java,mysql" />
 </p>
 
-### 🧪 Testing Technologies
+### 🧪 Testing
 
 <p>
 <img src="https://skillicons.dev/icons?i=selenium,postman" />
@@ -41,8 +47,8 @@
 <p>
 
 <img src="https://img.shields.io/badge/TestNG-DD0031?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST_Assured-16A085?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Manual_Testing-0052CC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20Assured-16A085?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Manual%20Testing-0052CC?style=for-the-badge" />
 
 </p>
 
@@ -60,65 +66,22 @@
 
 ---
 
-# 📊 Skills
-
-| Category | Technologies |
-|-----------|--------------|
-| 💻 Programming | Java, SQL |
-| 🧪 Automation | Selenium WebDriver, TestNG |
-| 🌐 API Testing | REST Assured, Postman |
-| 🐞 Manual Testing | Test Cases, Bug Reports, RTM |
-| ⚙️ Build Tool | Maven |
-| 🔄 Version Control | Git, GitHub |
-| 🚀 CI/CD | GitHub Actions *(Learning)* |
-| 🐳 Containerization | Docker *(Learning)* |
-
----
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Repository | Description | Status |
 |------------|-------------|--------|
 | 🚀 Enterprise-Selenium-Framework | Scalable Selenium Automation Framework | 🚧 In Progress |
-| 🧪 REST-Assured-Framework | API Automation Framework | 🚧 In Progress |
-| 🐞 Manual-Testing-Portfolio | Test Cases, Bug Reports & RTM | 🚧 In Progress |
+| 🧪 REST-Assured-Framework | API Automation using REST Assured | 🚧 In Progress |
+| 🐞 Manual-Testing-Portfolio | Test Cases, RTM & Bug Reports | 🚧 In Progress |
 | 🏥 OrangeHRM-Automation | End-to-End Automation Project | 🚧 In Progress |
-| ☕ Java-for-QA | Java Programs & Interview Questions | 🚧 In Progress |
-| 💾 SQL-for-Testers | SQL Practice & Interview Preparation | 🚧 In Progress |
+| ☕ Java-for-QA | Java Programs & Interview Preparation | 🚧 In Progress |
+| 💾 SQL-for-Testers | SQL Practice & Interview Questions | 🚧 In Progress |
 
-> These repositories are currently under development and will be updated with source code, documentation, screenshots, and reports.
-
----
-
-# 📚 Current Learning Journey
-
-```text
-✅ Core Java
-
-✅ SQL
-
-✅ Git & GitHub
-
-✅ Manual Testing
-
-🔄 Selenium WebDriver
-
-🔄 TestNG
-
-🔄 REST Assured
-
-🔄 Maven
-
-🔄 GitHub Actions
-
-⏳ Docker
-
-⏳ Jenkins
-```
+> As I complete each project, I'll add documentation, screenshots, reports, and source code.
 
 ---
 
-# 📈 GitHub Statistics
+## 📈 GitHub Statistics
 
 <p align="center">
 
@@ -136,46 +99,28 @@
 
 ---
 
-# 🎯 2026 Goals
+## 📚 Currently Learning
 
-- ✅ Master Core Java
-- 🔄 Build Enterprise Selenium Framework
-- 🔄 Learn REST Assured
-- 🔄 Build API Automation Framework
-- 🔄 Learn CI/CD with GitHub Actions
-- 🔄 Learn Docker & Jenkins
-- 🎯 Land a QA Automation Engineer role
-
----
-
-# 📂 Repository Standards
-
-Every project follows a consistent structure.
-
-```text
-README.md
-LICENSE
-CHANGELOG.md
-docs/
-screenshots/
-reports/
-src/
-.github/workflows/
-```
+- Selenium WebDriver
+- TestNG
+- REST Assured
+- Maven
+- GitHub Actions
+- Docker
+- Jenkins
 
 ---
 
-# 💡 Engineering Principles
+## 🎯 2026 Goals
 
-- Write clean and maintainable code
-- Follow industry best practices
-- Keep automation reusable and scalable
-- Write meaningful documentation
-- Learn continuously and improve every day
+- 🚀 Build an Enterprise Selenium Framework
+- 🌐 Master REST API Automation
+- ⚙️ Learn CI/CD using GitHub Actions
+- 💼 Secure a QA Automation Engineer role
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p>
 
@@ -193,8 +138,8 @@ src/
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-### **Build • Test • Automate • Improve**
+**Build • Test • Automate • Improve**
 
 </div>
