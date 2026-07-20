@@ -1,242 +1,181 @@
 <div align="center">
 
-# Hi, I'm Vinay Chaudhari 👋
+# 👋 Hi, I'm Vinay Chaudhari
 
-### QA Automation Engineer
+### QA Automation Engineer | Java | Selenium | TestNG | REST Assured
 
-**Java • Selenium • TestNG • REST Assured • SQL • GitHub Actions**
+Building reliable automation frameworks and continuously improving software quality.
 
-*Building reliable automation frameworks that improve software quality.*
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=QA+Automation+Engineer;Java+%7C+Selenium+%7C+TestNG;REST+API+Automation;Continuous+Learning+%26+Continuous+Improvement" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=QA+Automation+Engineer;Java+%7C+Selenium+%7C+TestNG;REST+API+Automation;Learning+CI%2FCD+%26+Automation+Framework+Design" />
+</p>
 
 </div>
 
 ---
 
-# About Me
+## 👨‍💻 About Me
 
 ```java
 public class Vinay {
 
-    private final String role =
-            "QA Automation Engineer";
+    String role = "QA Automation Engineer";
 
-    private final String[] interests = {
-            "UI Automation",
-            "API Testing",
-            "Automation Framework Design",
-            "CI/CD"
+    String location = "India";
+
+    String[] expertise = {
+        "UI Automation",
+        "API Testing",
+        "Manual Testing",
+        "Automation Framework Design"
     };
 
-    private final String mission =
-            "Build maintainable automation solutions that help teams deliver quality software faster.";
+    String currentFocus =
+        "Building scalable Selenium frameworks.";
 
 }
 ```
 
 ---
 
-# Tech Stack
+## 🛠 Tech Stack
 
-### Languages
+<table>
+<tr>
+<td><b>Language</b></td>
+<td>Java • SQL</td>
+</tr>
 
-* Java
-* SQL
+<tr>
+<td><b>Automation</b></td>
+<td>Selenium WebDriver • TestNG</td>
+</tr>
 
-### Automation
+<tr>
+<td><b>API</b></td>
+<td>REST Assured • Postman</td>
+</tr>
 
-* Selenium WebDriver
-* TestNG
-* Page Object Model
-* Data-Driven Testing
+<tr>
+<td><b>Build Tool</b></td>
+<td>Maven</td>
+</tr>
 
-### API Testing
+<tr>
+<td><b>Version Control</b></td>
+<td>Git • GitHub</td>
+</tr>
 
-* REST Assured
-* Postman
+<tr>
+<td><b>CI/CD</b></td>
+<td>GitHub Actions</td>
+</tr>
 
-### Build & Version Control
+<tr>
+<td><b>IDE</b></td>
+<td>IntelliJ IDEA • VS Code</td>
+</tr>
 
-* Maven
-* Git
-* GitHub
-
-### CI/CD
-
-* GitHub Actions
-
-### IDE & Tools
-
-* IntelliJ IDEA
-* VS Code
-* Chrome DevTools
-
----
-
-# Featured Projects
-
-## 🚀 Enterprise Selenium Framework
-
-A scalable automation framework built using:
-
-* Java
-* Selenium
-* TestNG
-* Maven
-* Page Object Model
-* Data-Driven Testing
-* Extent Reports
+</table>
 
 ---
 
-## 🧪 REST Assured API Framework
+## 🚀 Featured Projects
 
-Features
-
-* GET
-* POST
-* PUT
-* DELETE
-* Authentication
-* JSON Validation
-* Assertions
+| Repository | Description |
+|------------|-------------|
+| 🚀 Enterprise Selenium Framework | Java + Selenium + TestNG + Maven |
+| 🧪 REST Assured Framework | API Automation using REST Assured |
+| 🐞 Manual Testing Portfolio | Test Cases, RTM, Bug Reports |
+| 💾 SQL for Testers | SQL Practice & Interview Questions |
+| ☕ Java Practice | Core Java & OOP Concepts |
 
 ---
 
-## 🐞 Manual Testing Portfolio
+## 📂 Framework Architecture
 
-Includes
-
-* Test Plan
-* Test Strategy
-* Test Cases
-* Bug Reports
-* RTM
-* Test Summary Report
-* Defect Reports
-
----
-
-## 💾 SQL Practice Repository
-
-Topics
-
-* Joins
-* Views
-* Functions
-* Window Functions
-* Interview Questions
-
----
-
-## ☕ Java Practice Repository
-
-Topics
-
-* OOP
-* Collections
-* Exception Handling
-* Streams
-* Multithreading
-
----
-
-# Framework Architecture
-
-```text
-                 TestNG
-
-                    │
-
-         Test Runner Classes
-
-                    │
-
-            Test Classes
-
-                    │
-
-          Page Object Model
-
-                    │
-
-         Utility Components
-
-                    │
-
-      Configuration & Test Data
-
-                    │
-
-             Extent Reports
+```
+Tests
+   │
+   ▼
+Page Objects
+   │
+   ▼
+Utilities
+   │
+   ▼
+Driver Factory
+   │
+   ▼
+Configuration
+   │
+   ▼
+Extent Reports
 ```
 
 ---
 
-# Repository Standards
-
-Every repository includes:
+## 📚 Current Learning
 
 ```text
-README.md
+✅ Core Java
 
-Architecture Diagram
+✅ SQL
 
-Folder Structure
+✅ Git & GitHub
 
-Screenshots
+✅ Manual Testing
 
-Execution Guide
+🔄 Selenium WebDriver
 
-Reports
+🔄 TestNG
 
-Future Improvements
+🔄 REST Assured
 
-License
+🔄 GitHub Actions
+
+⏳ Jenkins
+
+⏳ Docker
 ```
 
 ---
 
-# Current Focus
+## 📈 GitHub Stats
 
-* Building production-ready Selenium frameworks
-* Improving Java coding practices
-* Learning advanced REST API automation
-* CI/CD using GitHub Actions
-* Writing clean, maintainable automation code
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
 
-# GitHub Analytics
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
 
-<!-- GitHub Stats Card -->
-
-<!-- Contribution Graph -->
-
-<!-- Top Languages -->
-
-<!-- Streak Stats -->
-
-(Embed your preferred GitHub stat cards here once your repositories become active.)
+</p>
 
 ---
 
-# Engineering Principles
+<p align="center">
 
-* Write readable code.
-* Automate repetitive work.
-* Prefer maintainability over shortcuts.
-* Document decisions clearly.
-* Treat testing as engineering, not just execution.
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
+</p>
 
 ---
 
-# Connect
+## 🎯 Engineering Philosophy
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-* Email: YOUR_EMAIL
+- Write clean, maintainable code.
+- Build reusable automation frameworks.
+- Automate repetitive tasks.
+- Keep documentation simple and useful.
+- Never stop learning.
+
+---
+
+## 📫 Connect
+
+- 💼 LinkedIn → YOUR_LINKEDIN
+- 📧 Email → YOUR_EMAIL
+- 🌐 Portfolio → Coming Soon
 
 ---
 
@@ -244,6 +183,6 @@ License
 
 ### Build • Test • Automate • Improve
 
-**Thanks for visiting my GitHub profile.**
+⭐ Thanks for visiting my GitHub profile!
 
 </div>
