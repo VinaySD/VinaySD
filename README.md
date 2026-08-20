@@ -113,6 +113,9 @@ I’m building hands-on projects to strengthen my skills in UI automation, API t
 ---
 
 ## 📈 GitHub Statistics
+---
+
+## 📈 GitHub Statistics
 
 <p align="center">
 
