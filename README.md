@@ -9,7 +9,7 @@
 Focused on building reliable automated tests, clean test frameworks, and practical QA engineering skills.
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Aspiring+SDET+%7C+QA+Automation+Engineer;Java+%7C+Selenium+%7C+TestNG;REST+API+Testing+%7C+Postman+%7C;Learning+Automation%2C+CI%2FCD+%26+Test+Frameworks" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Aspiring+SDET+%7C+QA+Automation+Engineer;Java+%7C+Selenium+%7C+TestNG;REST+API+Testing+%7C+Postman;Learning+Automation%2C+CI%2FCD+%26+Test+Frameworks" />
 </p>
 
 </div>
@@ -47,7 +47,6 @@ I’m building hands-on projects to strengthen my skills in UI automation, API t
 
 <p>
 <img src="https://img.shields.io/badge/TestNG-DD0031?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST%20Assured-16A085?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Manual%20Testing-0052CC?style=for-the-badge" />
 <img src="https://img.shields.io/badge/API%20Testing-6F42C1?style=for-the-badge" />
 </p>
@@ -85,7 +84,7 @@ I’m building hands-on projects to strengthen my skills in UI automation, API t
 - ✅ Test case design and defect reporting
 - ✅ Selenium WebDriver automation with Java
 - ✅ TestNG test execution and organization
-- ✅ REST API testing with Postman and REST Assured
+- ✅ REST API testing with Postman
 - ✅ SQL queries for data validation
 - ✅ Maven-based Java test projects
 - ✅ Git & GitHub workflow
@@ -98,13 +97,8 @@ I’m building hands-on projects to strengthen my skills in UI automation, API t
 
 | Area | Focus |
 |------|-------|
-| Selenium | WebDriver, locators, waits, actions, Page Object Model |
-| TestNG | Annotations, assertions, data-driven testing, suites |
 | REST Assured | Request/response validation, serialization, API automation |
 | Postman | Collections, environments, scripts, data-driven testing |
-| SQL | Joins, subqueries, validation queries |
-| Maven | Project structure, dependencies, test execution |
-| GitHub Actions | CI workflows for automated tests |
 | Docker | Containers and test execution fundamentals |
 | Jenkins | CI/CD fundamentals |
 
@@ -143,11 +137,11 @@ I’m building hands-on projects to strengthen my skills in UI automation, API t
 
 <p>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/vinay-chaudhari-qa/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:cvinay1925@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
