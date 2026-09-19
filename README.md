@@ -4,12 +4,12 @@
 
 ### Aspiring SDET / QA Automation Engineer
 
-**Java • Selenium • TestNG • REST Assured • Postman • SQL**
+**Java • Selenium • TestNG • Postman • SQL**
 
 Focused on building reliable automated tests, clean test frameworks, and practical QA engineering skills.
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Aspiring+SDET+%7C+QA+Automation+Engineer;Java+%7C+Selenium+%7C+TestNG;REST+API+Testing+%7C+Postman+%7C+REST+Assured;Learning+Automation%2C+CI%2FCD+%26+Test+Frameworks" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Aspiring+SDET+%7C+QA+Automation+Engineer;Java+%7C+Selenium+%7C+TestNG;REST+API+Testing+%7C+Postman+%7C;Learning+Automation%2C+CI%2FCD+%26+Test+Frameworks" />
 </p>
 
 </div>
@@ -68,14 +68,12 @@ I’m building hands-on projects to strengthen my skills in UI automation, API t
 
 ## 🚀 Featured Projects
 
-| Repository | Focus | Status |
-|------------|-------|--------|
-| 🚀 Enterprise-Selenium-Framework | Selenium + Java automation framework | 🚧 In Progress |
-| 🧪 REST-Assured-Framework | REST API automation & validation | 🚧 In Progress |
-| 🐞 Manual-Testing-Portfolio | Test cases, RTM & bug reports | 🚧 In Progress |
-| 🏥 OrangeHRM-Automation | End-to-end web application automation | 🚧 In Progress |
-| ☕ Java-for-QA | Java practice & interview preparation | 🚧 In Progress |
-| 💾 SQL-for-Testers | SQL practice & testing-focused queries | 🚧 In Progress |
+| Repository                                   | Focus                                                                              | Status      |
+| -------------------------------------------- | ---------------------------------------------------------------------------------- | ----------- |
+| 🐞 **plane-manual-qa-project**               | Manual testing, test case design, RTM, exploratory testing & Jira defect reporting | ✅ Completed |
+| 🚀 **selenium-java-hybrid-framework**        | Selenium + Java + TestNG + Maven, POM, data-driven & cross-browser testing         | ✅ Completed |
+| 🧪 **postman-practice**                      | REST API testing with Postman, request/response validation & HTTP status codes     | ✅ Completed |
+| 🤖 **ai-personalized-career-recommendation** | AI-based career recommendation system, RAG chatbot & agentic roadmap generator     | ✅ Completed |
 
 > Projects will be updated with documentation, test scenarios, reports, screenshots, and source code as they mature.
 
